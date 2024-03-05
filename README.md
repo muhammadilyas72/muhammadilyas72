@@ -54,8 +54,10 @@ Steps: Data Understanding, Data Preparation, Modelling, Analyzing, Evaluation
 
 **Description:** Perform design and Job Development Talend, perform data transformation with Talend, perform error handling and debugging, learning advanced techniques in Talend, integrating Talend with system External
 
-**Skills:** 
-**2. SQL Training**
+**Skills:**  
+
+**2. SQL Training**  
+
 **Code:** 
 
 **Description:** Learn DDL, DML, and DCL, learn basic queries, learn JOIN and subquery, perform query optimization
@@ -65,7 +67,7 @@ Steps: Data Understanding, Data Preparation, Modelling, Analyzing, Evaluation
 **Technology:** 
 
 ## **Education**
-Universitas Pendidikan Indinesia: Bachelor of Matematics, 2020 - 2024
+Universitas Pendidikan Indonesia: Bachelor of Matematics, 2020 - 2024
 
 ## **Certificates**
 
