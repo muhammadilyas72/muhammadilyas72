@@ -1,5 +1,6 @@
 # **Muhammad Ilyas Muharizki - Portofolio**
-
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadilyas72/)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.ilyas72.mi@gmail.com)
 ## **About**
 
 Hi, I'm Ilyas! I am a final year student majoring in Mathematics at the Indonesian Education University. I have an interest in the field of data science, especially data engineering and data analysis. I have honed my interest by following independent study programs on data analysis at ZENIUS and data engineering at Data Academy.
@@ -12,7 +13,13 @@ During independent study activities I can work well in a team or independently. 
 
 My CV is in [pdf](https://github.com/muhammadilyas72/muhammadilyas72/blob/8e276805ba0d1ce10c45f832398376865bbcbcf7/Files/CV%20Muhammad%20Ilyas.pdf) format.
 
-
+## **Tech stack**
+Python
+SQL
+Talend
+Looker Studio
+Google Cloud
+Tableau
 
 ## **Portofolio Projects**
 ### **Data Analysis**
@@ -62,10 +69,4 @@ Universitas Pendidikan Indinesia: Bachelor of Matematics, 2020 - 2024
 
 ## **Certificates**
 
-## **Contacts**
-* [LinkedIn](https://www.linkedin.com/in/muhammadilyas72/) 
-* [Email](muhammad.ilyas72.mi@gmail.com) 
-* [GitHub](https://github.com/muhammadilyas72)
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadilyas72/)
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammad.ilyas72.mi@gmail.com)
