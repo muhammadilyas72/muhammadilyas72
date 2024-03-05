@@ -10,7 +10,7 @@ There are other activities that I do to hone my data analyst skills by learning 
 
 During independent study activities I can work well in a team or independently. This is due to my enthusiasm for discovering new insights and enthusiasm for solving complex problems.
 
-My CV is in [pdf](tokopedia.) format.
+My CV is in [pdf](https://github.com/muhammadilyas72/muhammadilyas72/blob/8e276805ba0d1ce10c45f832398376865bbcbcf7/Files/CV%20Muhammad%20Ilyas.pdf) format.
 
 
 
