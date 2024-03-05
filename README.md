@@ -68,3 +68,4 @@ Universitas Pendidikan Indinesia: Bachelor of Matematics, 2020 - 2024
 * [GitHub](https://github.com/muhammadilyas72)
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadilyas72/)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammad.ilyas72.mi@gmail.com)
