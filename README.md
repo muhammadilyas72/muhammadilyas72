@@ -19,7 +19,7 @@ My CV is in [pdf](https://github.com/muhammadilyas72/muhammadilyas72/blob/8e2768
 ![General badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white) 
 ![General badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![General badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
-Looker Studio
+![General badge](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
 
 ## **Portofolio Projects**
 ### **Data Analysis**
