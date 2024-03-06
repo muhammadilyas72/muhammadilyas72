@@ -14,12 +14,12 @@ During independent study activities I can work well in a team or independently. 
 My CV is in [pdf](https://github.com/muhammadilyas72/muhammadilyas72/blob/8e276805ba0d1ce10c45f832398376865bbcbcf7/Files/CV%20Muhammad%20Ilyas.pdf) format.
 
 ## **Tech stack**
-Python
-SQL
-Talend
+![General badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![General badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![General badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white) 
+![General badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![General badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 Looker Studio
-Google Cloud
-Tableau
 
 ## **Portofolio Projects**
 ### **Data Analysis**
