@@ -42,6 +42,6 @@ My CV is in [pdf](https://drive.google.com/file/d/1FeNsGWDBzY5tbt_Y0mhT_nXVl0J4I
 Universitas Pendidikan Indonesia: Bachelor of Matematics, 2020 - 2024
 
 ## **Certificates**
-[Sertifikat BEM Himatika Identika UPI](https://drive.google.com/file/d/1WejQd_heoDrcUFPd5oH7q4aNmX0wfQTM/view?usp=sharing)
+[Sertifikat BEM Himatika Identika UPI](https://drive.google.com/file/d/1WejQd_heoDrcUFPd5oH7q4aNmX0wfQTM/view?usp=sharing)<br>
 [Sertifikat Studi Independen Zenius](https://drive.google.com/file/d/1aBYMM9PRIR_7EX1Z8_8XeySvv5QJeq2L/view?usp=sharing)  
 [Sertifikat Kompetensi Data Engineering Academy](https://drive.google.com/file/d/1aruoMzs6Jhug7_ReIYnmfqasvRFdPD6A/view?usp=sharing)
