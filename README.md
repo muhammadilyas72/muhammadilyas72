@@ -3,7 +3,7 @@
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.ilyas72.mi@gmail.com)
 ## **About**
 
-Hi, I'm Ilyas! I am a Mathematics graduate at Universitas Pendidikan Indonesia. I have an interest in the field of data science, especially data engineering and data analysis. I have honed my interest by following independent study programs on data analysis at ZENIUS and data engineering at Data Academy.
+Hi, I'm Ilyas! I am a Mathematics graduate of Universitas Pendidikan Indonesia. I have an interest in the field of data science, especially data engineering and data analysis. I have honed my interest by following independent study programs on data analysis at ZENIUS and data engineering at Data Academy.
 
 During my studies, I honed my skills in the field of data engineering by learning how to create, test, and maintain database architecture. I also gained experience in learning ETL, ELT and using SQL for data engineering.
 
