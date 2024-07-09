@@ -11,7 +11,7 @@ There are other activities that I do to hone my data analyst skills by learning 
 
 During independent study activities I can work well in a team or independently. This is due to my enthusiasm for discovering new insights and enthusiasm for solving complex problems.
 
-My CV is in [pdf](https://drive.google.com/file/d/1FeNsGWDBzY5tbt_Y0mhT_nXVl0J4I-F_/view?usp=sharing) format.
+My CV is in [pdf](https://drive.google.com/file/d/1LouYAB0-qbxNnnToQ0r7LUv_S7i4HrC4/view?usp=sharing) format.
 
 ## **Tech stack**
 ### **Programming Language**
@@ -43,5 +43,5 @@ Universitas Pendidikan Indonesia: Bachelor of Matematics, 2020 - 2024
 
 ## **Certificates**
 [Sertifikat BEM Himatika Identika UPI](https://drive.google.com/file/d/1WejQd_heoDrcUFPd5oH7q4aNmX0wfQTM/view?usp=sharing)<br>
-[Sertifikat Studi Independen Zenius](https://drive.google.com/file/d/1aBYMM9PRIR_7EX1Z8_8XeySvv5QJeq2L/view?usp=sharing)  
+[Sertifikat Data Analytics Zenius](https://drive.google.com/file/d/1aBYMM9PRIR_7EX1Z8_8XeySvv5QJeq2L/view?usp=sharing)  
 [Sertifikat Kompetensi Data Engineering Academy](https://drive.google.com/file/d/1aruoMzs6Jhug7_ReIYnmfqasvRFdPD6A/view?usp=sharing)
